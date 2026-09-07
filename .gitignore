@@ -1,0 +1,9 @@
+# 실제 설정 (예시 파일만 커밋한다)
+config.json
+**/config.json
+
+# 실행 산출물
+*.log
+*.png
+
+.DS_Store

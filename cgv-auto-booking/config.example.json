@@ -1,0 +1,14 @@
+{
+  "_comment": "api는 생략하면 앱이 보내는 요청을 가로채 자동으로 알아낸다. 보통 지정할 필요 없다.",
+
+  "personType": "일반",
+  "personCount": 1,
+
+  "targetRows": ["I", "J", "K", "L", "M", "N", "O", "P"],
+  "rowRank": { "K": 0, "L": 0, "M": 0, "J": 1, "N": 1, "I": 2, "O": 2, "P": 3 },
+  "preferAdjacent": true,
+
+  "refreshMs": 1000,
+  "scanMs": 100,
+  "autoPay": true
+}
